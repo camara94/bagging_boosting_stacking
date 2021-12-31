@@ -60,6 +60,8 @@ Exemple en Machine Learning
 
 ![image 8](images/8.png)
 
+![image 8](images/9.png)
+
 ## Ressources
 
 1. [https://fr.wikipedia.org/wiki/Apprentissage_ensembliste](https://fr.wikipedia.org/wiki/Apprentissage_ensembliste)
