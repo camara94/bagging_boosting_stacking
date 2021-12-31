@@ -40,6 +40,10 @@ Scikit-learn par exemple propose par défaut Adaboost avec :
 
     ![image 2](images/2.png)
 
+## Bagging VS Boosting
+
+![image 15](images/15.png)
+
 ## Stacking
 
 Le stacking (ou dit parfois blending) est un procédé qui consiste à appliquer un algorithme de machine learning à des classifieur générés par un autre algorithme de machine learning.
