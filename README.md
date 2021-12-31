@@ -50,6 +50,7 @@ Le stacking (ou dit parfois blending) est un procédé qui consiste à appliquer
 
 D’une certaine façon, il s’agit de prédire quels sont les meilleurs classifieurs et de les pondérer. Cette démarche a l’avantage de pouvoir agréger des modèles très différents et d’améliorer sensiblement la qualité de la prédiction finale, le challenge NetFlix à 1 million $ en est la meilleure preuve.
 
+
 ## Proverbe
 
 ![image 3](images/3.png)
