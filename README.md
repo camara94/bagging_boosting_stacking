@@ -78,6 +78,11 @@ Exemple en Machine Learning
 
 ![image 10](images/10.png)
 
+## Comment choisir: le modèle d'ensemble learning
+
+* Lorsqu'on observe l'overfitting sur la somme de nos modèles alors On utilise le **Boosting**
+* Lorsqu'on observe l'under-fitting sur la somme de nos modèles alors On utilise le **Bagging**
+
 ## Ressources
 
 1. [https://fr.wikipedia.org/wiki/Apprentissage_ensembliste](https://fr.wikipedia.org/wiki/Apprentissage_ensembliste)
