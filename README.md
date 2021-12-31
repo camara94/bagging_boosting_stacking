@@ -7,3 +7,6 @@ En statistique et en apprentissage automatique, l'apprentissage ensembliste util
 
 Par exemple<br> l'ensemble de méthodes **bagging**, **boosting** et les **forêts aléatoires** est un exemple d'apprentissage ensembliste.
 
+## Bagging
+Le **bootstrap aggregating**, également appelé **bagging** (de bootstrap aggregating), est un meta-algorithme d'apprentissage ensembliste conçu pour améliorer la stabilité et la précision des algorithmes d'apprentissage automatique. Il réduit la variance et permet d'éviter le surapprentissage. Bien qu'il soit généralement appliqué aux méthodes d'arbres de décision, il peut être utilisé avec n'importe quel type de méthode. Le bootstrap aggregating est un cas particulier de l'approche d'apprentissage ensembliste.
+
