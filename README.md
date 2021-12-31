@@ -60,7 +60,9 @@ Exemple en Machine Learning
 
 ![image 8](images/8.png)
 
-![image 8](images/9.png)
+![image 9](images/9.png)
+
+![image 10](images/10.png)
 
 ## Ressources
 
