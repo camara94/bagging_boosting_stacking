@@ -52,6 +52,8 @@ Exemple en Machine Learning
 
 ## La Loi des Grands Nombres
 
+![image 6](images/6.png)
+
 ## Ressources
 
 1. [https://fr.wikipedia.org/wiki/Apprentissage_ensembliste](https://fr.wikipedia.org/wiki/Apprentissage_ensembliste)
