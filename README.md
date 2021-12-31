@@ -13,8 +13,8 @@ Le **bootstrap aggregating**, également appelé **bagging** (de bootstrap aggre
 * Exemple<br>
 Avec Scikit-learn, il est simple de produire de tels modèles baggés, par exemple :
  1. Un bagging d’arbres de décision sera généré sur scikit-learn ou weka à partir des classes suivantes:
-sklearn.ensemble.RandomForestClassifier
-2. (n_estimators=10)
+sklearn.ensemble.RandomForestClassifier(n_estimators=10)
+2. 
 weka.classifiers.meta.Bagging
 
    ![image 1](images/1.png)
