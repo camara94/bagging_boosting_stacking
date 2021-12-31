@@ -5,3 +5,5 @@ Python Machine Learning en français vous enseigne les techniques d'Ensemble Lea
 ## Ensemble Learning
 En statistique et en apprentissage automatique, l'apprentissage ensembliste utilise plusieurs algorithmes d'apprentissage pour obtenir de meilleures prédictions.
 
+Par exemple<br> l'ensemble de méthodes **bagging**, **boosting** et les **forêts aléatoires** est un exemple d'apprentissage ensembliste.
+
