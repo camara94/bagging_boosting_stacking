@@ -10,3 +10,12 @@ Par exemple<br> l'ensemble de méthodes **bagging**, **boosting** et les **forê
 ## Bagging
 Le **bootstrap aggregating**, également appelé **bagging** (de bootstrap aggregating), est un meta-algorithme d'apprentissage ensembliste conçu pour améliorer la stabilité et la précision des algorithmes d'apprentissage automatique. Il réduit la variance et permet d'éviter le surapprentissage. Bien qu'il soit généralement appliqué aux méthodes d'arbres de décision, il peut être utilisé avec n'importe quel type de méthode. Le bootstrap aggregating est un cas particulier de l'approche d'apprentissage ensembliste.
 
+* Exemple<br>
+Avec Scikit-learn, il est simple de produire de tels modèles baggés, par exemple :
+ 1. Un bagging d’arbres de décision sera généré sur scikit-learn ou weka à partir des classes suivantes:
+sklearn.ensemble.RandomForestClassifier
+2. (n_estimators=10)
+weka.classifiers.meta.Bagging
+
+   ![image 1](images/1.png)
+
