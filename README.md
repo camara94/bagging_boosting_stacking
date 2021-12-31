@@ -31,6 +31,8 @@ Le principe est issu de la combinaison de classifieurs (appelés également hypo
 
 On appelle apprenant faible un algorithme qui fournit des classifieurs faibles, capables de reconnaître deux classes au moins aussi bien que le hasard ne le ferait (c’est-à-dire qu'il ne se trompe pas plus d'une fois sur deux en moyenne, si la distribution des classes est équilibrée). Le classifieur fourni est pondéré par la qualité de sa classification : mieux il classe, plus il sera important. Les exemples mal classés sont boostés pour qu'ils aient davantage d'importance vis-à-vis de l'apprenant faible au prochain tour, afin qu'il pallie le manque.
 
+
+
 * Exemple:  
 Scikit-learn par exemple propose par défaut Adaboost avec :
   1. sklearn.ensemble.AdaBoostClassifier(n_estimators=100)
