@@ -32,3 +32,9 @@ Scikit-learn par exemple propose par défaut Adaboost avec :
   2. weka.classifiers.AdaBoostM1
 
     ![image 2](images/2.png)
+
+## Stacking
+
+Le stacking (ou dit parfois blending) est un procédé qui consiste à appliquer un algorithme de machine learning à des classifieur générés par un autre algorithme de machine learning.
+
+D’une certaine façon, il s’agit de prédire quels sont les meilleurs classifieurs et de les pondérer. Cette démarche a l’avantage de pouvoir agréger des modèles très différents et d’améliorer sensiblement la qualité de la prédiction finale, le challenge NetFlix à 1 million $ en est la meilleure preuve.
