@@ -38,3 +38,11 @@ Scikit-learn par exemple propose par défaut Adaboost avec :
 Le stacking (ou dit parfois blending) est un procédé qui consiste à appliquer un algorithme de machine learning à des classifieur générés par un autre algorithme de machine learning.
 
 D’une certaine façon, il s’agit de prédire quels sont les meilleurs classifieurs et de les pondérer. Cette démarche a l’avantage de pouvoir agréger des modèles très différents et d’améliorer sensiblement la qualité de la prédiction finale, le challenge NetFlix à 1 million $ en est la meilleure preuve.
+
+## Ressources
+
+1. [https://fr.wikipedia.org/wiki/Apprentissage_ensembliste](https://fr.wikipedia.org/wiki/Apprentissage_ensembliste)
+2. [https://fr.wikipedia.org/wiki/Bootstrap_aggregating](https://fr.wikipedia.org/wiki/Bootstrap_aggregating) 
+3. [https://fr.wikipedia.org/wiki/Boosting](https://fr.wikipedia.org/wiki/Boosting)
+4. [https://www.youtube.com/watch?v=7C_YpudYtw8](https://www.youtube.com/watch?v=7C_YpudYtw8)
+5. [https://blog.octo.com/les-methodes-ensemblistes-pour-algorithmes-de-machine-learning/](https://blog.octo.com/les-methodes-ensemblistes-pour-algorithmes-de-machine-learning/)
