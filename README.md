@@ -46,6 +46,10 @@ Autrement dit
 
 ![image 4](images/4.png)
 
+Exemple en Machine Learning
+
+![image 5](images/5.png)
+
 ## Ressources
 
 1. [https://fr.wikipedia.org/wiki/Apprentissage_ensembliste](https://fr.wikipedia.org/wiki/Apprentissage_ensembliste)
