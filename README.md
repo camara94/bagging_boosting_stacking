@@ -42,6 +42,10 @@ D’une certaine façon, il s’agit de prédire quels sont les meilleurs classi
 
 ![image 3](images/3.png)
 
+Autrement dit
+
+![image 4](images/4.png)
+
 ## Ressources
 
 1. [https://fr.wikipedia.org/wiki/Apprentissage_ensembliste](https://fr.wikipedia.org/wiki/Apprentissage_ensembliste)
